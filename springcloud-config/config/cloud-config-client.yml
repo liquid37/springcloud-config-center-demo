@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: cloud-config-client
-
 config:
-  info: hello, using springcloud config client
+  info: hello, using springcloud config client,versoin=1
